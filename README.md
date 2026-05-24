@@ -11,6 +11,7 @@ in Machine Learning and Data Science.
 |---|---|
 | Python for Data Science | 🔄 In Progress |
 | Pandas and NumPy | 🔄 In Progress |
+|  Working with CSV Files | 🔄 In Progress |
 | Data Visualization | 📅 Planned |
 | Statistics Basics | 📅 Planned |
 | Scikit-learn Basics | 📅 Planned |
