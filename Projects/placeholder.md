@@ -8,3 +8,6 @@ This folder contains end-to-end ML projects.
 |---|---|---|---|
 | [Titanic Survival Prediction](./Titanic-Survival-Prediction/) | Predict passenger survival | Logistic Regression | ~80% |
 
+## Coming Soon
+- House Price Prediction
+- Air Quality Forecasting
