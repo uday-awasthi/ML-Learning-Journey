@@ -10,16 +10,16 @@ in Machine Learning and Data Science.
 | Topic | Status |
 |---|---|
 | Python for Data Science | 🔄 In Progress |
-| Pandas and NumPy | 🔄 In Progress |
-| Data Visualization | 📅 Planned |
-| Statistics Basics | 📅 Planned |
-| Scikit-learn Basics | 📅 Planned |
-| Linear Regression | 📅 Planned |
+| Pandas and NumPy | ✅ Done |
+| Data Visualization | ✅ Done |
+| Statistics Basics | ✅ Done |
+| Scikit-learn Basics | ✅ Done |
+| Linear Regression | ✅ Done |
 | Logistic Regression | 📅 Planned |
 | Decision Trees | 📅 Planned |
 | Random Forest | 📅 Planned |
 | Model Evaluation | 📅 Planned |
-| Feature Engineering | 📅 Planned |
+| Feature Engineering | ✅ Done |
 | Gen AI Basics | 📅 Planned |
 
 ---
