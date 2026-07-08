@@ -9,7 +9,7 @@ in Machine Learning and Data Science.
 
 | Topic | Status |
 |---|---|
-| Python for Data Science | 🔄 In Progress |
+| Python for Data Science | ✅ Done  |
 | Pandas and NumPy | ✅ Done |
 | Data Visualization | ✅ Done |
 | Statistics Basics | ✅ Done |
